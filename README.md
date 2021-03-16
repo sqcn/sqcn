@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GIF](https://user-images.githubusercontent.com/61304225/111247611-45fbe900-8643-11eb-9417-992a2911b43b.gif)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sqcn)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=sqcn&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
