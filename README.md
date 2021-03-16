@@ -45,7 +45,6 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
   </a> 
   <br><br>
-  <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/sqcn">
     <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
