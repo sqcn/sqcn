@@ -10,3 +10,6 @@
 - 决策规划（行为预测）
 - 云服务（仿真、数据平台、车辆标定）
 - 机器人软件平台（ROS、Autoware）
+
+> [!NOTE]
+> Information the user should notice even if skimming.
