@@ -25,3 +25,7 @@
 - AR+SLAM
 
 :thinking:观望中（may-to-do）
+
+### ❤️ GitHub Stats
+
+![Shao Qi's github stats](https://github-readme-stats.vercel.app/api?username=sqcn&show_icons=true)
